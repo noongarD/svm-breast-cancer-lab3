@@ -1,0 +1,21 @@
+preprocessing,kernel,C,accuracy
+bez standaryzacji,linear,0.01,0.953216
+bez standaryzacji,linear,0.1,0.947368
+bez standaryzacji,linear,1,0.953216
+bez standaryzacji,linear,10,0.953216
+bez standaryzacji,linear,100,0.953216
+bez standaryzacji,rbf,0.01,0.771930
+bez standaryzacji,rbf,0.1,0.888889
+bez standaryzacji,rbf,1,0.906433
+bez standaryzacji,rbf,10,0.929825
+bez standaryzacji,rbf,100,0.929825
+ze standaryzacja,linear,0.01,0.959064
+ze standaryzacja,linear,0.1,0.970760
+ze standaryzacja,linear,1,0.982456
+ze standaryzacja,linear,10,0.953216
+ze standaryzacja,linear,100,0.941520
+ze standaryzacja,rbf,0.01,0.625731
+ze standaryzacja,rbf,0.1,0.935673
+ze standaryzacja,rbf,1,0.976608
+ze standaryzacja,rbf,10,0.976608
+ze standaryzacja,rbf,100,0.923977
